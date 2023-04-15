@@ -89,3 +89,6 @@
 - 虚拟机参数
 - 命令行参数
 
+## 内部配置加载顺序
+
+![image-20230415212315208](http://kiyotakawang.oss-cn-hangzhou.aliyuncs.com/img/image-20230415212315208.png)
